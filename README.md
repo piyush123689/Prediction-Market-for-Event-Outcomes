@@ -2,7 +2,7 @@
 
 ## 🧠 Project Description
 
-A decentralized prediction market where users can place bets on binary outcomes (Yes/No) of real-world events. Once the event resolves, winners claim proportional rewards based on their stake.
+A decentralized prediction market where users can place bets on binary outcomes (Yes/No) of real-world events. Once the event resolves, winners claim proportional rewards based on their stake.every one can use.
 
 ## 🌍 Project Vision
 
