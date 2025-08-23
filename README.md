@@ -1,4 +1,4 @@
-...1 # Prediction Market for Event Outcomes
+11...1 # Prediction Market for Event Outcomes
 
 ## 🧠 Project Description
 
