@@ -1,4 +1,4 @@
-w11..Prediction Market for Event Outcomes
+1..Prediction Market for Event Outcomes
 
 ## 🧠 Project Description
 
