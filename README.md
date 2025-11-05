@@ -1,4 +1,5 @@
-1..Prediction Market for Event Outcomes
+
+..Prediction Market for Event Outcomes
 
 ## 🧠 Project Description
 
